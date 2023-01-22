@@ -12,6 +12,7 @@ import retrofit2.HttpException
 import java.io.IOException
 
 /*
+* Retrofit tutorial by Phiipp Lackner - https://youtu.be/t6Sql3WMAnk
 * The data for our app is taken from https://jsonplaceholder.typicode.com/todos ( a list of todos)
 *
 * first we add build dependencies, create RecyclerView in activity_main.xls
